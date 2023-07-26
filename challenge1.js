@@ -40,11 +40,11 @@ firstly there is spacing in the initialization of our variable. secondly there i
 */
 
 //Challenge 3
-/*
+
 const some Number = 20;
 
 someNumber = 50
-*/
+
 
 //it will be equal to 2040 cause an int is being added to a string. The data type of it will be string.
 
