@@ -1,4 +1,4 @@
-Challenge 1
+//Challenge 1
 
 //1
 const myBoolean='true';
